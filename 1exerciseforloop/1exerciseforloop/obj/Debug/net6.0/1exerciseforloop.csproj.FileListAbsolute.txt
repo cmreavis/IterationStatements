@@ -1,0 +1,15 @@
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\bin\Debug\net6.0\1exerciseforloop.exe
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\bin\Debug\net6.0\1exerciseforloop.deps.json
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\bin\Debug\net6.0\1exerciseforloop.runtimeconfig.json
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\bin\Debug\net6.0\1exerciseforloop.dll
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\bin\Debug\net6.0\1exerciseforloop.pdb
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\1exerciseforloop.csproj.AssemblyReference.cache
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\1exerciseforloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\1exerciseforloop.AssemblyInfoInputs.cache
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\1exerciseforloop.AssemblyInfo.cs
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\1exerciseforloop.csproj.CoreCompileInputs.cache
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\1exerciseforloop.dll
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\refint\1exerciseforloop.dll
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\1exerciseforloop.pdb
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\1exerciseforloop.genruntimeconfig.cache
+C:\Users\cmrea\repos\IterationStatements\1exerciseforloop\1exerciseforloop\obj\Debug\net6.0\ref\1exerciseforloop.dll
